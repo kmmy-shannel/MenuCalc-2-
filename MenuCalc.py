@@ -634,7 +634,7 @@ TopBannerImage = ImageTk.PhotoImage(TopBannerImageObject)
 
 
 # Menu images
-displayDefaultImageObject = Image.open("white-Screenshot 2024-10-21 201844.png").resize((800,600))
+displayDefaultImageObject = Image.open("white-Screenshot 2024-10-21 201844.png").resize((800,800))
 displayDefaultImage = ImageTk.PhotoImage(displayDefaultImageObject)
 
 beefPitaWrapImageObject = Image.open("Beef-Wrap.png").resize((800,550))
